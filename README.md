@@ -1,6 +1,7 @@
 # project_Programm_Engineering
 Репозиторий для дисциплины "Программная инженерия"
 
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/team.PNG" align="right"/>
 
 Телеграм бот для потерянных вещей студентов
 Наш бот разработан для студентов, которые оставили свои вещи на территории Финансового университета факультета ИТиАБД. 
