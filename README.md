@@ -17,4 +17,4 @@ StackHolders Map
 
 Требования к веб-приложению:
 Requirements 
-<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Requirements.png" align="center", />
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Requirements.png" align="centre"/>
