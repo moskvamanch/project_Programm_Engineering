@@ -13,5 +13,8 @@
 
 StackHolders Map <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Stackholders_Map.png" align="right"/>
 
+
+
+
 Требования к веб-приложению:
 StackHolders Map <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Requirements.png" align="right"/>
