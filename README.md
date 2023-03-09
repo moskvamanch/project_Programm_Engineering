@@ -11,4 +11,4 @@
 - Каждый студент может добавить найденную вещь и написать к ней описание (например: где и когда ее нашел, в каком месте она сейчас находится)
 - Посты с найденными вещами можно просматривать 
 
-StackHolders Map <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Screenshot_9.png" align="right"/>
+StackHolders Map <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Stackholders_Map.png" align="right"/>
