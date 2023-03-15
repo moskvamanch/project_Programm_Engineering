@@ -16,7 +16,7 @@
 
 
 ### Требования к веб-приложению:
-Requirements 
+Requirements <br>
 
 <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Requirements.png" align="centre"/>
 
