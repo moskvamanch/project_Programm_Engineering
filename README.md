@@ -11,10 +11,16 @@
 - Каждый студент может добавить найденную вещь и написать к ней описание (например: где и когда ее нашел, в каком месте она сейчас находится)
 - Посты с найденными вещами можно просматривать 
 
-StackHolders Map
+### StackHolders Map
 <img style="padding: 20px;" src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Stackholders_Map.png" align="right"/>
 
 
-Требования к веб-приложению:
+### Требования к веб-приложению:
 Requirements 
 <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Requirements.png" align="centre"/>
+
+### Диаграмма  Use Case
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/USE_CASE.jpg" align="centre"/>
+
+
+
