@@ -14,6 +14,8 @@
 ### StackHolders Map
 <img style="padding: 20px;" src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Stackholders_Map.png" align="right"/>
 
+### Функциональная декомпозиция IDEF0
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/IDEF0.PNG" align="centre"/>
 
 ### Требования к веб-приложению:
 Requirements <br>
