@@ -29,5 +29,5 @@ Requirements <br>
 <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sem_12_1.jpg" align="centre"/>
 
 ### Расчеты трудоемкости работ
-<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sem_12_2.jpg" align="centre"/>
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sem_12_2.png" align="centre"/>
 
