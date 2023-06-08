@@ -25,5 +25,9 @@ Requirements <br>
 ### Диаграмма  Use Case
 <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/USE_CASE.jpg" align="centre"/>
 
+### Иерархическая структура работ
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sem_12_1.jpg" align="centre"/>
 
+### Расчеты трудоемкости работ
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sem_12_2.jpg" align="centre"/>
 
