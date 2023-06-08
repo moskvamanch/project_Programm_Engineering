@@ -31,3 +31,11 @@ Requirements <br>
 ### Расчеты трудоемкости работ
 <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sem_12_2.png" align="centre"/>
 
+### Class Diagram
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sem_14_Classdiagram.png" align="centre"/>
+
+### Sequence Diagram
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sequence_diagram.png" align="centre"/>
+
+### Расчеты трудоемкости работ
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Гыу_сфыу_туц.png" align="centre"/>
