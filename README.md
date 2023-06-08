@@ -32,7 +32,7 @@ Requirements <br>
 <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sem_12_2.png" align="centre"/>
 
 ### Class Diagram
-<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sem_14_Classdiagram.png" align="centre"/>
+<img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sem_14_Class_diagram.png" align="centre"/>
 
 ### Sequence Diagram
 <img src="https://github.com/moskvamanch/project_Programm_Engineering/blob/main/Sequence_diagram.png" align="centre"/>
